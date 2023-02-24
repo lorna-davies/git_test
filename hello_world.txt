@@ -1,0 +1,2 @@
+Testing out how to recommit changes to Git. 
+This seems straightforward so far. 
